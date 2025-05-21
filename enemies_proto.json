@@ -1,0 +1,112 @@
+[{
+  "id": "HKD-E01",
+      "name": "夕張メロン",
+      "prefecture": "北海道",
+      "level": 1,
+      "maxHp": 10,
+      "atk": 5,
+      "weakness": "on",           
+      "image": "1_夕張メロン",
+      "isBoss": false
+    },
+    {
+      "id": "HKD-E02",
+          "name": "ジンギスカン",
+          "prefecture": "北海道",
+          "level": 2,
+          "maxHp": 20,
+          "atk": 6,
+          "weakness": "on",           
+          "image": "2_ジンギスカン",
+          "isBoss": false
+        }, 
+        {
+          "id": "HKD-E03",
+              "name": "毛ガニ",
+              "prefecture": "北海道",
+              "level": 2,
+              "maxHp": 15,
+              "atk": 7,
+              "weakness": "on",           
+              "image": "3_毛ガニ",
+              "isBoss": false
+            }, 
+            {
+              "id": "HKD-E04",
+                  "name": "ラベンダー",
+                  "prefecture": "北海道",
+                  "level": 2,
+                  "maxHp": 25,
+                  "atk": 8,
+                  "weakness": "on",           
+                  "image": "4_ラベンダー",
+                  "isBoss": false
+                }, 
+                {
+                  "id": "HKD-E05",
+                      "name": "まりも",
+                      "prefecture": "北海道",
+                      "level": 2,
+                      "maxHp": 30,
+                      "atk": 9,
+                      "weakness": "on",           
+                      "image": "5_まりも",
+                      "isBoss": false
+                    }, 
+                    {
+                      "id": "HKD-E06",
+                          "name": "トウモロコシ",
+                          "prefecture": "北海道",
+                          "level": 2,
+                          "maxHp": 35,
+                          "atk": 10,
+                          "weakness": "on",           
+                          "image": "6_トウモロコシ",
+                          "isBoss": false
+                        }, 
+                        {
+                          "id": "HKD-E07",
+                              "name": "バター",
+                              "prefecture": "北海道",
+                              "level": 2,
+                              "maxHp": 30,
+                              "atk": 11,
+                              "weakness": "on",           
+                              "image": "7_バター",
+                              "isBoss": false
+                            }, 
+                            {
+                              "id": "HKD-E08",
+                                  "name": "スープカレー",
+                                  "prefecture": "北海道",
+                                  "level": 2,
+                                  "maxHp": 25,
+                                  "atk": 12,
+                                  "weakness": "on",           
+                                  "image": "8_スープカレー",
+                                  "isBoss": false
+                                }, 
+                                {
+                                  "id": "HKD-E09",
+                                      "name": "ハスカップ",
+                                      "prefecture": "北海道",
+                                      "level": 2,
+                                      "maxHp": 35,
+                                      "atk": 13,
+                                      "weakness": "on",           
+                                      "image": "9_ハスカップ",
+                                      "isBoss": false
+                                    }, 
+                                    {
+                                      "id": "HKD-E10",
+                                          "name": "ししゃも",
+                                          "prefecture": "北海道",
+                                          "level": 2,
+                                          "maxHp": 30,
+                                          "atk": 14,
+                                          "weakness": "on",           
+                                          "image": "10_ししゃも",
+                                          "isBoss": false
+                                        }
+
+]
